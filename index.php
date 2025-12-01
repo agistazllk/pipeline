@@ -8,7 +8,7 @@ include 'header.php';
 
 <section class="hero-section">
     <div class="container">
-        <h2>Buah & Sayur Segar Langsung ke Dapur Anda! 🥭</h2>
+        <h2>Buah & Sayur Segar Langsung ke Dapur Anda! agista</h2>
         <p>Gratis Ongkir untuk wilayah tertentu. Jaminan Kesegaran 100%</p>
         <a href="#produk" class="btn-hero">Lihat Semua Produk</a>
     </div>
