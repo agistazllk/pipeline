@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <?php
 echo "Agista Aja"
 ?>
+=======
+>>>>>>> 7e5a462 (Add files via upload)
 <?php 
 // Panggil header.php (Diasumsikan sudah memulai session dan memanggil koneksi.php)
 include 'header.php'; 
@@ -8,7 +11,11 @@ include 'header.php';
 
 <section class="hero-section">
     <div class="container">
+<<<<<<< HEAD
         <h2>Buah & Sayur Segar Langsung ke Dapur Anda! agista</h2>
+=======
+        <h2>Buah & Sayur Segar Langsung ke Dapur Anda! 🥭</h2>
+>>>>>>> 7e5a462 (Add files via upload)
         <p>Gratis Ongkir untuk wilayah tertentu. Jaminan Kesegaran 100%</p>
         <a href="#produk" class="btn-hero">Lihat Semua Produk</a>
     </div>
@@ -66,4 +73,8 @@ include 'header.php';
 <?php
 // Panggil footer.php
 include 'footer.php'; 
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 7e5a462 (Add files via upload)
